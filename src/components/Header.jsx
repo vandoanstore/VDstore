@@ -62,7 +62,7 @@ const Header = ({ onLoginClick, onSearch }) => {
             <div className="logo-section">
               <div className="logo">
                 <i className="logo-icon" style={{
-                  backgroundImage: 'url(https://as1.ftcdn.net/v2/jpg/03/28/50/10/1000_F_328501059_KnS1tUQ0z8rhkkVaJBnHPeOHw090qZ70.jpg)',
+                  backgroundImage: 'url(./3.png)',
                   backgroundSize: 'cover',
                   width: '90px',
                   height: '80px',
