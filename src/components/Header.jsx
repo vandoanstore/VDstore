@@ -62,7 +62,6 @@ const Header = ({ onLoginClick, onSearch }) => {
             <div className="logo-section">
               <div className="logo">
                 <i className="logo-icon" style={{
-                  backgroundImage: 'url(./3.png)',
                   backgroundSize: 'cover',
                   width: '90px',
                   height: '80px',
